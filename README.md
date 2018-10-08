@@ -3,9 +3,11 @@ Digital Power Supply communication software
 
 
 
-This code based on De Smedt Luc's.
+This code based on De Smedt Luc's code on banggood forum:
 
 https://forum.banggood.com/forum-topic-389422.html?page=2
+
+<b>His message:<b>
 
     ****
     Dear Sir /BG Staff,
