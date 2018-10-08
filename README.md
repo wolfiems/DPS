@@ -1,7 +1,9 @@
 # DPS
-Digital Power Supply communication software
+Digital Power Supply communication software for DPS3005-C ,DPS5005-C, DPS5015-C, DPS5020-C comm. versions.
 
+This code is on alpha stage. Can't use with BT yet.
 
+*************************************************************
 
 This code based on De Smedt Luc's code on banggood forum:
 
